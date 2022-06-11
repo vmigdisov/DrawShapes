@@ -27,7 +27,5 @@ class ViewController: UIViewController {
         triangleView.layer.addSublayer(shapeLayer)
         view.addSubview(triangleView)
     }
-
-
 }
 
